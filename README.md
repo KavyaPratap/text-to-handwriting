@@ -72,3 +72,10 @@ Newlines (\n) in the text are managed by adding new paragraphs to the document.
 Saving the Document
 After processing all characters, the document is saved as output.docx.
 By following these instructions, you should be able to use and understand the text to handwritten document converter program effectively.
+
+<h2>Contributing</h2>
+    <p>Contributions are welcome! Feel free to fork this project and submit pull requests with improvements or new features.</p>
+    
+   <h2>License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.</p>
+    
