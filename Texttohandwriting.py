@@ -7,7 +7,7 @@ with open("dummy.txt", "r") as txt_file:
     text = txt_file.read()
 
 # Replace single spaces with multiple spaces
-text = re.sub(r' ', '      ', text)
+text = re.sub(r' ', '    ', text)
 
 # Create a Word document
 doc = docx.Document()
